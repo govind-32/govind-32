@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Govind 
 - 👀 I’m interested in cluod computing and security
 - 🌱 I’m currently learning Cyber security
-- 💞️ I’m looking to collaborate on IAM Projects
-- 📫 linkedin :
+- 💞️ I’m looking to collaborate on IAM(Identity and access management) Projects
+- 📫 linkedin : 
